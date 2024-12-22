@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&display=swap');
+
+
+html {
+  overflow-y: scroll;
+}
+
+.text-shadow{
+  text-shadow: 1px 1px 2px pink;
+}
